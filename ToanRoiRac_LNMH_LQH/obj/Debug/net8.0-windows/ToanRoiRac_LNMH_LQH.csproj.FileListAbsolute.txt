@@ -1,0 +1,16 @@
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\bin\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.exe
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\bin\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.deps.json
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\bin\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.runtimeconfig.json
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\bin\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.dll
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\bin\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.pdb
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.Form1.resources
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.csproj.GenerateResource.cache
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.AssemblyInfoInputs.cache
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.AssemblyInfo.cs
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.csproj.CoreCompileInputs.cache
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.dll
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\refint\ToanRoiRac_LNMH_LQH.dll
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.pdb
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ToanRoiRac_LNMH_LQH.genruntimeconfig.cache
+C:\Users\Huan\Visual2022\ToanRoiRac_LNMH_LQH\ToanRoiRac_LNMH_LQH\obj\Debug\net8.0-windows\ref\ToanRoiRac_LNMH_LQH.dll
